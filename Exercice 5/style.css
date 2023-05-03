@@ -10,7 +10,7 @@ a {
     background-color: lightgray;
 }
 
-img[alt="paysage2"] + p {
+#contenu+div {
     text-align: right;
     font-size: 2em;
 }
